@@ -1,3 +1,4 @@
+http://torch.ch/blog/2015/09/07/spatial_transformers.html
 ## gtsrb.torch
 
 This repo illustrates how to use [Torch](http://torch.ch/) to train a
